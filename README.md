@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SashaKYotoz
 - 👀 I’m interested in creating game on unity and minecraft moding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Forge/Fabric modification development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me telegram: @sashakyotoz
+- 📫 How to reach me discord: @sashakyotoz
 
 <!---
 SashaKYotoz/SashaKYotoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
