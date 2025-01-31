@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sashakyotoz" alt="sashakyotoz" /></a> </p>
 
-- 🔭 I’m currently working on [Wrathy Armament mod for Minecraft](https://github.com/SashaKYotoz/wrathy_armament)
+- 🔭 I’m currently working on [Unusual End mod for Minecraft](https://www.curseforge.com/minecraft/mc-mods/unusual-end)
 
-- 🌱 I’m currently learning **Spring framework**
+- 🌱 I’m currently learning **Unity UIToolkit**
 
 - 👨‍💻 Most of my projects are available at [https://www.curseforge.com/members/sashakyotoz/projects](https://www.curseforge.com/members/sashakyotoz/projects)
 
