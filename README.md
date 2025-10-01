@@ -1,7 +1,7 @@
 # Hey there 👋, I'm SashaKYotoz
 
 ## 💫 About Me:
-- 🔭 I’m currently working on [Unusual End mod for Minecraft](https://www.curseforge.com/minecraft/mc-mods/unusual-end)<br><br>
+- 🔭 I’m currently working on [Golem Overhaul mod for Minecraft](https://www.curseforge.com/minecraft/mc-mods/golem-overhaul)<br><br>
 - 🌱 I’m currently learning **C programming language**<br><br>
 - 👨‍💻 Most of my projects are listed at [SashaKYotoz_Dev](https://sashakyotoz.github.io/sashakyotoz_dev/)<br><br>
 - 📫 To reach me, find me in <a href="https://discord.gg/vjyzphNywy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vjyzphNywy" height="30" width="40" /></a>
