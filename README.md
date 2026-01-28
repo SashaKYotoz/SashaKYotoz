@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-stats-sashakyotoz.vercel.app/api?username=SashaKYotoz&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-stats-sashakyotoz.vercel.app/api/top-langs/?username=SashaKYotoz&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=shell,perl)
+![](https://github-stats-sashakyotoz.vercel.app/api/top-langs/?username=SashaKYotoz&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=shell,perl,glsl)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SashaKYotoz&theme=radical&rank=-?&row=2)
