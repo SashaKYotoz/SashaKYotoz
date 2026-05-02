@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-stats-sashakyotoz.vercel.app/api?username=SashaKYotoz&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-stats-sashakyotoz.vercel.app/api/top-langs/?username=SashaKYotoz&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=shell,perl,glsl)
+![](https://github-stats-sashakyotoz.vercel.app/api/top-langs/?username=SashaKYotoz&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=shell,perl,glsl,html)
 
 <hr>
 
